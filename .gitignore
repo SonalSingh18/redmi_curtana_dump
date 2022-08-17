@@ -1,0 +1,9 @@
+system/system/app/MiuiVideoPlayer/MiuiVideoPlayer.apk
+system/system/apex/com.android.vndk.current.apex
+bootimg/13_dtbdump_mKdpame.dtb
+modem.img
+boot.img
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+system_ext/priv-app/Settings/Settings.apk
