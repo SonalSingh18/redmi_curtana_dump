@@ -1,0 +1,11 @@
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+bootimg/13_dtbdump_fa-.dtb
+modem.img
+boot.img
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/app/Messages/Messages.apk
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
